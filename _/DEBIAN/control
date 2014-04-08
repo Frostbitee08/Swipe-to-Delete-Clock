@@ -1,0 +1,10 @@
+Package: com.frostbitee08.swipetodeleteclock
+Name: Swipe to Delete Clock
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Rocco Del Priore
+Author: Rocco Del Priore
+Section: Tweaks
+Version: 0.0.1-2
+Installed-Size: 48
